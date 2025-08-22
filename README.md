@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahil JAin
+- 👋 Hi, I’m Sahil Jain
 - 👀 I’m well equipped in building Full stack application using MERN stack and (React.js + Springboot +MySql) stack.
 - 🌱 I have also leart about making backend applications in microservices architecture
 - 💞️ I’m looking to collaborate on full stack application projects
