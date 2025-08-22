@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sahiljain6
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Backend Development in Node.js
-- 💞️ I’m looking to collaborate on full stack mobile app projects
+- 👋 Hi, I’m Sahil JAin
+- 👀 I’m well equipped in building Full stack application using MERN stack and (React.js + Springboot +MySql) stack.
+- 🌱 I have also leart about making backend applications in microservices architecture
+- 💞️ I’m looking to collaborate on full stack application projects
 - 📫 How to reach me, you can contact me on my linkedin profile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: what started out as an option became my passion
